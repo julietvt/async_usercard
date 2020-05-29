@@ -1,0 +1,35 @@
+#usersList {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.userListItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 200px;
+    max-width: 300px;
+    flex-basis: 300px;
+    background-color: LightGoldenrodYellow;
+    border: 2px solid DarkKhaki;
+    box-sizing: border-box;
+    padding: 20px;
+    color: olive;
+    margin: 20px;
+}
+.userPictureCont{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+.userPictureCont > img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+}

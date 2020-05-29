@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Леонардо",
+    "surname": "да Винчи",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Leonardo_self.jpg/230px-Leonardo_self.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Рембрандт",
+    "surname": "Харменс ван Рейн",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/274px-Rembrandt_Self-portrait_%28Kenwood%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ван Гог",
+    "surname": "Ван Гог",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Autoportrait_de_Vincent_van_Gogh.JPG/210px-Autoportrait_de_Vincent_van_Gogh.JPG"
+  }
+]
